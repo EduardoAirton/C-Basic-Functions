@@ -26,9 +26,9 @@ void readValidateText(char *msg, char *errorMsg, char *text, int size);
 char readValidateChar(char *msg, char *opc);
 void readValidateOption(char *msg, char *errorMsg, char *validOptions, char *option);
 void removeRegister(char *text);
-FILE *openFile(char *fileName, char *openingMode)
-void readFile()
-int checkFile(char *fileName)
+FILE *openFile(char *fileName, char *openingMode);
+void readFile();
+int checkFile(char *fileName);
 
 int main(int argc, char const *argv[]) {
 	//Put your code here
