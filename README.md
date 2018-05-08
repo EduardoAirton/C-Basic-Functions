@@ -1,5 +1,5 @@
 # C-Basic-Functions
-A file with the most important functions in C, read and validate int, float, string, char, options and files. All to help you start your project in C without have to spend a lot o time building this basic functions that already validade the input.
+A file with the most important functions in C, read and validate int, float, string, char, options and files. All to help you start your project in C without have to spend a lot of time building this basic functions that already validade the input.
 
 ## Getting Started
 
