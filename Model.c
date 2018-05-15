@@ -190,11 +190,11 @@ Class class;
 	arq = openFile("FileName.txt","Mode");
 	CLEAN
 	if(arq != NULL){
-	if(fread(&class,sizeof(class),1,arq) == 1){
-		printf("Name: %.30s\n", class.name);
-		printf("Address: %s,%s-%s\n",class.address,class.city,class.state);
+		if(fread(&class,sizeof(class),1,arq) == 1){
+			//printf("Name: %.30s\n", class.name); Exemple on who to use it 
+			//printf("Address: %s,%s-%s\n",class.address,class.city,class.state);
+		}
 	}
-}
 	fclose(arq);
 }
 
