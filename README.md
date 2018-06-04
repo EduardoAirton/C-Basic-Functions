@@ -14,9 +14,10 @@ Feel free to send any update
 
 If you see a code or method here that doesn't work anymore with the current C version or is not a good fit, please submit a pull request to improve this file or consider updating it, thank you!
 
+## Recommended C Course 
+[CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+
 ## Authors
 
 * **Eduardo Airton** - [GitHub](https://github.com/EduardoAirton) - [Linkedin](https://www.linkedin.com/in/eduardo-airton/)
 
-## Recommended C Course 
-[CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
