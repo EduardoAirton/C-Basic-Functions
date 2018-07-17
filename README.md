@@ -7,7 +7,7 @@ Just Dowload the content and open in you IDE of choice or click on Model.c and c
 
 ### Prerequisites
 
-Put your code int the main area and use the functions given. Then you need to install [GCC](https://sourceforge.net/projects/tdm-gcc/) compiler, always download the lasted version, then open the prompt in the folder that you saved the C file and run ```gcc model.c``` and ```./a.out```.
+Put your code int the main area and use the functions given. If you use windows you need to install [GCC](https://sourceforge.net/projects/tdm-gcc/) compiler (MAC already come pre installed), always download the lasted version, then open the prompt in the folder that you saved the C file and run ```gcc model.c``` and ```./a.out```.
 
 ## Contributing
 Feel free to send any update 
