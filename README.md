@@ -17,7 +17,7 @@ If you see a code or method here that doesn't work anymore with the current C ve
 ## Recommended C Course 
 [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
-## Authors
+## Author
 
 * **Eduardo Airton** - [GitHub](https://github.com/EduardoAirton) - [Linkedin](https://www.linkedin.com/in/eduardo-airton/)
 
